@@ -1,0 +1,12 @@
+ Application.CreateForm(TLogin_form, Login_form);
+  Application.CreateForm(TSupplier_form, Supplier_form);
+  Application.CreateForm(TProduk_form, Produk_form);
+  Application.CreateForm(TTransaksi_form, Transaksi_form);
+  Application.CreateForm(TLaporan_form, Laporan_form);
+  Application.CreateForm(TDataModule1, DataModule1);
+  Application.CreateForm(TBeranda_form, Beranda_form);
+  Application.CreateForm(TMember_form, Member_form);
+  Application.CreateForm(TQuickReport2, QuickReport2);
+  Application.CreateForm(TPembelian_produk, Pembelian_produk);
+  Application.CreateForm(TSaldo_Form, Saldo_Form);
+  Application.CreateForm(TPenjualan_form, Penjualan_form);

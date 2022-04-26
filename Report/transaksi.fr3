@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TfrxReport Version="4.12.6" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="43818.2799053357" ReportOptions.Description.Text="" ReportOptions.LastChange="43818.3309269213" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end." PropData="044C65667403E00103546F7003B80108446174617365747301010C3900000020446174615365743D22667278444244617461736574312220446174615365744E616D653D226672446574547278262331333B262331303B220000095661726961626C65730100055374796C650100">
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="215.9" PaperHeight="279.4" PaperSize="1" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="">
+    <TfrxReportTitle Name="ReportTitle1" Height="162.51979" Left="0" Top="18.89765" Width="740.409927">
+      <TfrxMemoView Name="Memo1" Left="525.35467" Top="0" Width="94.48825" Height="26.45671" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-19" Font.Name="Bowlby One SC" Font.Style="0" ParentFont="False" Text="Invoic"/>
+      <TfrxMemoView Name="Memo2" Left="15.11812" Top="15.11812" Width="162.51979" Height="34.01577" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-24" Font.Name="Agency FB" Font.Style="0" ParentFont="False" Text="Apotek Sugih Waras"/>
+      <TfrxMemoView Name="Memo3" Left="15.11812" Top="41.57483" Width="283.46475" Height="52.91342" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Agency FB" Font.Style="0" ParentFont="False" Text="Kebayanan 1, Klandungan, Kec. Ngrampal, Kabupaten Sragen, Jawa Tengah 57252. "/>
+      <TfrxMemoView Name="Memo4" Left="11.33859" Top="83.14966" Width="291.02381" Height="75.5906" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Agency FB" Font.Style="0" ParentFont="False" Text="Owner      : Basri S. Farm., Apt. &#13;&#10;No Telp      : 085640292873 &#13;&#10;No SIPA     : 3314/SIPA/1/143/IX/2018 &#13;&#10;No SIA       : 20/SIA-DPMPTSP/IX/2018"/>
+    </TfrxReportTitle>
+    <TfrxHeader Name="Header1" Height="22.67718" Left="0" Top="241.88992" Width="740.409927"/>
+    <TfrxMasterData Name="MasterData1" Height="34.01577" Left="0" Top="287.24428" Width="740.409927" ColumnWidth="0" ColumnGap="0" DataSet="frxDBDataset1" DataSetName="frDetTrx&#13;&#10;" RowCount="0">
+      <TfrxMemoView Name="Memo5" Left="22.67718" Top="3.77953" Width="94.48825" Height="18.89765" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Agency FB" Font.Style="0" ParentFont="False" Text="[frDetTrx&#13;&#10;.&#34;kd_produk&#34;]"/>
+      <TfrxMemoView Name="Memo6" Left="185.19697" Top="3.77953" Width="94.48825" Height="18.89765" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Agency FB" Font.Style="0" ParentFont="False" Text="[frDetTrx&#13;&#10;.&#34;nama_produk&#34;]"/>
+      <TfrxMemoView Name="Memo7" Left="317.48052" Top="3.77953" Width="94.48825" Height="18.89765" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Agency FB" Font.Style="0" ParentFont="False" Text="[frDetTrx&#13;&#10;.&#34;harga_satuan&#34;]"/>
+      <TfrxMemoView Name="Memo8" Left="434.64595" Top="3.77953" Width="94.48825" Height="18.89765" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Agency FB" Font.Style="0" ParentFont="False" Text="[frDetTrx&#13;&#10;.&#34;jml_beli&#34;]"/>
+      <TfrxMemoView Name="Memo9" Left="597.16574" Top="3.77953" Width="94.48825" Height="18.89765" ShowHint="False" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Agency FB" Font.Style="0" ParentFont="False" Text="[frDetTrx&#13;&#10;.&#34;sub_total&#34;]"/>
+    </TfrxMasterData>
+  </TfrxReportPage>
+</TfrxReport>
